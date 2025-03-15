@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Link Sanitizer",
+    "version": "1.0",
+    "description": "Cleans tracking parameters from URLs.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "clipboardWrite",
+      "storage"
+    ]
+  }
